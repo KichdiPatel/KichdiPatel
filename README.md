@@ -2,6 +2,7 @@
 
 I am a CS student at Boston University who loves creating, coding, and expirementing. I like testing crypto trading strategies (mostly private), working with data, and building business/lifestyle automation projects.
 
+Website: [ayanpatel.xyz](https://ayanpatel.xyz)
 ## Currently
 
 - Researching Polymarket
