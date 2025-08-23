@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Ayan Patel 👋
 
-<!--
-**KichdiPatel/KichdiPatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a CS student at Boston University who loves creating, coding, and expirementing. I like testing crypto trading strategies (mostly private), working with data, and building business/lifestyle automation projects.
 
-Here are some ideas to get you started:
+## Currently
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Researching Polymarket
+- Learning about building consumer apps
+
+
+## Get In Touch
+
+- 📧 Email: [acpatel@example.com]
+- 💼 LinkedIn: [https://www.linkedin.com/in/apatel2/]
+
+---
+
+Feel free to explore my repositories and reach out if you'd like to collaborate!
