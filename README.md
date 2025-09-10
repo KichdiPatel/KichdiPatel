@@ -11,7 +11,7 @@ Website: [ayanpatel.xyz](https://ayanpatel.xyz)
 
 ## Get In Touch
 
-- 📧 Email: [acpatel@example.com]
+- 📧 Email: [acpatel@bu.edu]
 - 💼 LinkedIn: [https://www.linkedin.com/in/apatel2/]
 
 ---
